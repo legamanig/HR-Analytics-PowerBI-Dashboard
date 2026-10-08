@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project is an **HR Analytics Dashboard** developed using **Microsoft Power BI** to analyze employee data and understand workforce patterns, employee attrition, salary distribution, job satisfaction, experience, and department-wise employee trends.
+This project is an **HR Analytics Dashboard** developed using **Microsoft Power BI** to analyze employee data and understand workforce patterns, employee attrition, salary distribution, job satisfaction, employee experience, and department-wise employee trends.
 
-The dashboard provides an interactive view of HR-related KPIs and helps identify patterns that can support better workforce and employee retention decisions.
+The dashboard provides an interactive view of important HR-related Key Performance Indicators (KPIs) and helps identify patterns that can support better workforce management and employee retention decisions.
 
 The project uses a structured HR dataset containing employee demographics, job information, salary details, satisfaction scores, experience, training, overtime, and attrition information.
 
@@ -14,9 +14,9 @@ The project uses a structured HR dataset containing employee demographics, job i
 
 The main objectives of this project are:
 
-- Analyze overall employee workforce
+- Analyze the overall employee workforce
 - Understand employee attrition
-- Calculate attrition rate
+- Calculate the attrition rate
 - Analyze attrition by department
 - Analyze attrition by salary slab
 - Study attrition by gender
@@ -26,13 +26,16 @@ The main objectives of this project are:
 - Analyze employee performance
 - Compare employee distribution across departments
 - Identify patterns related to employee attrition
+- Analyze salary distribution
+- Understand workforce demographics
 - Build an interactive HR dashboard using Power BI
+- Provide meaningful insights for HR decision-making
 
 ---
 
 # 📊 Dataset
 
-The project uses an HR Analytics dataset containing:
+The project uses an **HR Analytics dataset** containing:
 
 - **1,480 employee records**
 - **37 columns**
@@ -53,6 +56,7 @@ The dataset contains information related to:
 - Training
 - Work-life balance
 - Employee tenure
+- Relationship satisfaction
 
 ---
 
@@ -102,6 +106,8 @@ The dataset contains information related to:
 
 # 🛠️ Tools & Technologies
 
+The following tools and technologies were used in this project:
+
 - **Microsoft Power BI**
 - **Power Query**
 - **DAX**
@@ -112,6 +118,8 @@ The dataset contains information related to:
 ---
 
 # 🔄 Project Workflow
+
+The project follows a complete data analysis workflow:
 
 ```text
 Raw HR Dataset
@@ -130,4 +138,12 @@ KPI Creation
       ↓
 Dashboard Design
       ↓
+Interactive Analysis
+      ↓
 HR Insights
+
+🏁 Conclusion
+
+The HR Analytics Dashboard demonstrates how employee data can be transformed into meaningful HR insights using Microsoft Power BI. The dashboard provides an interactive view of employee attrition, salary distribution, job satisfaction, experience, age groups, gender, and department-wise workforce distribution.
+
+This project helped me gain practical experience in Power BI, Power Query, DAX, data cleaning, data transformation, KPI creation, and data visualization. The insights generated through the dashboard can help organizations better understand workforce patterns and support employee retention, workforce planning, and data-driven HR decision-making.
